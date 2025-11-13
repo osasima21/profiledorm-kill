@@ -1,5 +1,6 @@
 {
-  "kill_switch": true,
+  "kill_switch": false,
   "banned_machines": []
 
 }
+

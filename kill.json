@@ -1,7 +1,9 @@
 {
   "kill_switch": false,
   "banned_machines": []
+  "global_logout_epoch": 1735689600
 
 }
+
 
 
